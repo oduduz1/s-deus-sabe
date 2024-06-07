@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="classe.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>America</title>
+</head>
+<body>
+  <header>
+
+      <logo >
+        America
+      </logo>
+
+      <nav>
+        <ul class="nav_links">
+            <li class="dropdown">
+
+              <a href="#">Produtos</a>
+
+              <div class="dropdown-menu">
+                <a href="#">Camiseta</a>
+                <a href="#">Moletom</a>
+                <a href="#">Calça</a>
+              </div>
+            
+            </li>
+            <li><a href="#">Meu Pedido</a></li>
+            <li><a href="#">Fale Conosco</a></li>
+            <a class="cta" href="#"><button>Carrinho</button></a>
+        </ul>
+      </nav>
+      
+  </header>
+
+  <footer>
+    <div class="footerContainer">
+      <div class="socialIcons">
+        <a href=""><i class="fa-brands fa-facebook"></i></a>
+        <a href=""><i class="fa-brands fa-instagram"></i></a>
+        <a href=""><i class="fa-brands fa-youtube"></i></a>
+        <a href=""><i class="fa-brands fa-tiktok"></i></a>
+
+        <div class="bottom">
+          <p>Copyright &copy;2024; Designed by <span class="designer"> America.co </span> </p>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+</body>
+</html
